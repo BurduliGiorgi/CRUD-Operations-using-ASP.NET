@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|c:\\users\\pc\\source\\repos\\webapplication4\\webapplication4\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|c:\\users\\pc\\source\\repos\\webapplication4\\webapplication4\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\webapplication4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Migrations\\20240603122746_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96582A4-095D-4833-B9F8-8BC08250F39B}|WebApplication4\\WebApplication4.csproj|solutionrelative:WebApplication4\\Migrations\\20240603122746_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:06:07.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T15:05:59.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:44:06.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T14:43:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:08:21.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T14:08:12.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T14:07:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Models\\ProductDto.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:05:12.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T13:17:37.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:33:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Pages\\Admin\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Pages\\Admin\\Products\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T12:33:40.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240603122746_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Migrations\\20240603122746_FirstMigration.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20240603122746_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Migrations\\20240603122746_FirstMigration.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20240603122746_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:27:47.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T12:02:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:48:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:46:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\WebApplication4\\WebApplication4\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:51:21.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
